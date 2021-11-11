@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.f83c3bd7.chunk.css",
-    "main.js": "/static/js/main.71033562.chunk.js",
-    "main.js.map": "/static/js/main.71033562.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.34a0eb2e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.34a0eb2e.js.map",
+    "main.css": "/static/css/main.218b0102.chunk.css",
+    "main.js": "/static/js/main.04ec091a.chunk.js",
+    "main.js.map": "/static/js/main.04ec091a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7d5a49f9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7d5a49f9.js.map",
     "static/css/2.97503911.chunk.css": "/static/css/2.97503911.chunk.css",
-    "static/js/2.6ee38760.chunk.js": "/static/js/2.6ee38760.chunk.js",
-    "static/js/2.6ee38760.chunk.js.map": "/static/js/2.6ee38760.chunk.js.map",
-    "static/js/3.9baae8cd.chunk.js": "/static/js/3.9baae8cd.chunk.js",
-    "static/js/3.9baae8cd.chunk.js.map": "/static/js/3.9baae8cd.chunk.js.map",
+    "static/js/2.dbbe7575.chunk.js": "/static/js/2.dbbe7575.chunk.js",
+    "static/js/2.dbbe7575.chunk.js.map": "/static/js/2.dbbe7575.chunk.js.map",
+    "static/js/3.cb575f43.chunk.js": "/static/js/3.cb575f43.chunk.js",
+    "static/js/3.cb575f43.chunk.js.map": "/static/js/3.cb575f43.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.97503911.chunk.css.map": "/static/css/2.97503911.chunk.css.map",
-    "static/css/main.f83c3bd7.chunk.css.map": "/static/css/main.f83c3bd7.chunk.css.map",
-    "static/js/2.6ee38760.chunk.js.LICENSE.txt": "/static/js/2.6ee38760.chunk.js.LICENSE.txt"
+    "static/css/main.218b0102.chunk.css.map": "/static/css/main.218b0102.chunk.css.map",
+    "static/js/2.dbbe7575.chunk.js.LICENSE.txt": "/static/js/2.dbbe7575.chunk.js.LICENSE.txt",
+    "static/media/Rolling.7c6f1a0d.svg": "/static/media/Rolling.7c6f1a0d.svg",
+    "static/media/arrow.d57e5f1d.svg": "/static/media/arrow.d57e5f1d.svg",
+    "static/media/ava.2fda6558.png": "/static/media/ava.2fda6558.png",
+    "static/media/binance.177b5d50.png": "/static/media/binance.177b5d50.png",
+    "static/media/binance_svg.2aac8085.svg": "/static/media/binance_svg.2aac8085.svg",
+    "static/media/huobi.46e67c1e.png": "/static/media/huobi.46e67c1e.png",
+    "static/media/huobi_svg.46d6aa78.svg": "/static/media/huobi_svg.46d6aa78.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.34a0eb2e.js",
+    "static/js/runtime-main.7d5a49f9.js",
     "static/css/2.97503911.chunk.css",
-    "static/js/2.6ee38760.chunk.js",
-    "static/css/main.f83c3bd7.chunk.css",
-    "static/js/main.71033562.chunk.js"
+    "static/js/2.dbbe7575.chunk.js",
+    "static/css/main.218b0102.chunk.css",
+    "static/js/main.04ec091a.chunk.js"
   ]
 }
