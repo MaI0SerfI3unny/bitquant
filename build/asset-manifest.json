@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d5d746e.chunk.css",
-    "main.js": "/static/js/main.24ff5807.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.ecb317a1.js",
+    "main.css": "/static/css/main.4df9ebc6.chunk.css",
+    "main.js": "/static/js/main.82ef6e7f.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.f3980e09.js",
     "static/css/2.1d72b6af.chunk.css": "/static/css/2.1d72b6af.chunk.css",
-    "static/js/2.2056ca11.chunk.js": "/static/js/2.2056ca11.chunk.js",
-    "static/js/3.5f8c7af1.chunk.js": "/static/js/3.5f8c7af1.chunk.js",
+    "static/js/2.445459ea.chunk.js": "/static/js/2.445459ea.chunk.js",
+    "static/js/3.6fe8a79f.chunk.js": "/static/js/3.6fe8a79f.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.2056ca11.chunk.js.LICENSE.txt": "/static/js/2.2056ca11.chunk.js.LICENSE.txt",
+    "static/js/2.445459ea.chunk.js.LICENSE.txt": "/static/js/2.445459ea.chunk.js.LICENSE.txt",
     "static/media/Rolling.7c6f1a0d.svg": "/static/media/Rolling.7c6f1a0d.svg",
     "static/media/arrom-black.93f35985.svg": "/static/media/arrom-black.93f35985.svg",
-    "static/media/arrow.d57e5f1d.svg": "/static/media/arrow.d57e5f1d.svg",
+    "static/media/arrow.758b97fd.svg": "/static/media/arrow.758b97fd.svg",
+    "static/media/ava_user.9cc473eb.svg": "/static/media/ava_user.9cc473eb.svg",
     "static/media/binance.177b5d50.png": "/static/media/binance.177b5d50.png",
     "static/media/binance_svg.2aac8085.svg": "/static/media/binance_svg.2aac8085.svg",
     "static/media/coin.7adf4df1.svg": "/static/media/coin.7adf4df1.svg",
+    "static/media/en.7be3d5a2.png": "/static/media/en.7be3d5a2.png",
     "static/media/exit.01a7d777.svg": "/static/media/exit.01a7d777.svg",
     "static/media/huobi.46e67c1e.png": "/static/media/huobi.46e67c1e.png",
     "static/media/huobi_svg.46d6aa78.svg": "/static/media/huobi_svg.46d6aa78.svg",
@@ -41,19 +43,22 @@
     "static/media/ri_31.3df79df8.png": "/static/media/ri_31.3df79df8.png",
     "static/media/ri_32.05e8c5f8.png": "/static/media/ri_32.05e8c5f8.png",
     "static/media/ri_33.8941b25e.png": "/static/media/ri_33.8941b25e.png",
+    "static/media/ri_34.3cf1738d.jpeg": "/static/media/ri_34.3cf1738d.jpeg",
     "static/media/ri_4.d7b720d9.png": "/static/media/ri_4.d7b720d9.png",
     "static/media/ri_5.881a7962.png": "/static/media/ri_5.881a7962.png",
     "static/media/ri_6.fb6431dd.png": "/static/media/ri_6.fb6431dd.png",
     "static/media/ri_7.13c6d335.png": "/static/media/ri_7.13c6d335.png",
     "static/media/ri_8.695a2954.png": "/static/media/ri_8.695a2954.png",
     "static/media/ri_9.c282e932.png": "/static/media/ri_9.c282e932.png",
-    "static/media/user.bdbfa0cb.svg": "/static/media/user.bdbfa0cb.svg"
+    "static/media/settings.bb9e659f.svg": "/static/media/settings.bb9e659f.svg",
+    "static/media/user.bdbfa0cb.svg": "/static/media/user.bdbfa0cb.svg",
+    "static/media/world.01c3d5c8.svg": "/static/media/world.01c3d5c8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ecb317a1.js",
+    "static/js/runtime-main.f3980e09.js",
     "static/css/2.1d72b6af.chunk.css",
-    "static/js/2.2056ca11.chunk.js",
-    "static/css/main.0d5d746e.chunk.css",
-    "static/js/main.24ff5807.chunk.js"
+    "static/js/2.445459ea.chunk.js",
+    "static/css/main.4df9ebc6.chunk.css",
+    "static/js/main.82ef6e7f.chunk.js"
   ]
 }
