@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.1b0454f4.chunk.css",
-    "main.js": "/static/js/main.e302ec38.chunk.js",
+    "main.js": "/static/js/main.ebb2baf3.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.375e4011.js",
     "static/css/2.1d72b6af.chunk.css": "/static/css/2.1d72b6af.chunk.css",
-    "static/js/2.f7d37fb7.chunk.js": "/static/js/2.f7d37fb7.chunk.js",
+    "static/js/2.8fb6cbe8.chunk.js": "/static/js/2.8fb6cbe8.chunk.js",
     "static/js/3.73cc2aa8.chunk.js": "/static/js/3.73cc2aa8.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.f7d37fb7.chunk.js.LICENSE.txt": "/static/js/2.f7d37fb7.chunk.js.LICENSE.txt",
+    "static/js/2.8fb6cbe8.chunk.js.LICENSE.txt": "/static/js/2.8fb6cbe8.chunk.js.LICENSE.txt",
     "static/media/Rolling.7c6f1a0d.svg": "/static/media/Rolling.7c6f1a0d.svg",
     "static/media/arrom-black.93f35985.svg": "/static/media/arrom-black.93f35985.svg",
     "static/media/arrow.758b97fd.svg": "/static/media/arrow.758b97fd.svg",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.375e4011.js",
     "static/css/2.1d72b6af.chunk.css",
-    "static/js/2.f7d37fb7.chunk.js",
+    "static/js/2.8fb6cbe8.chunk.js",
     "static/css/main.1b0454f4.chunk.css",
-    "static/js/main.e302ec38.chunk.js"
+    "static/js/main.ebb2baf3.chunk.js"
   ]
 }
