@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.2dd45bcc.chunk.css",
-    "main.js": "/static/js/main.5d1bb0dc.chunk.js",
+    "main.css": "/static/css/main.f1868a46.chunk.css",
+    "main.js": "/static/js/main.7bb59154.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.a9d12470.js",
     "static/css/2.d752d1ae.chunk.css": "/static/css/2.d752d1ae.chunk.css",
-    "static/js/2.66bac01d.chunk.js": "/static/js/2.66bac01d.chunk.js",
+    "static/js/2.a7b8cff1.chunk.js": "/static/js/2.a7b8cff1.chunk.js",
     "static/js/3.3bff38dc.chunk.js": "/static/js/3.3bff38dc.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.66bac01d.chunk.js.LICENSE.txt": "/static/js/2.66bac01d.chunk.js.LICENSE.txt",
+    "static/js/2.a7b8cff1.chunk.js.LICENSE.txt": "/static/js/2.a7b8cff1.chunk.js.LICENSE.txt",
     "static/media/Alert.f6e37692.svg": "/static/media/Alert.f6e37692.svg",
     "static/media/Password.svg": "/static/media/Password.f66b1350.svg",
     "static/media/Rolling.2f777407.svg": "/static/media/Rolling.2f777407.svg",
@@ -22,6 +22,7 @@
     "static/media/binance_svg.2aac8085.svg": "/static/media/binance_svg.2aac8085.svg",
     "static/media/close.70ebb005.svg": "/static/media/close.70ebb005.svg",
     "static/media/coin.7adf4df1.svg": "/static/media/coin.7adf4df1.svg",
+    "static/media/complete.bae8f309.svg": "/static/media/complete.bae8f309.svg",
     "static/media/copy.svg": "/static/media/copy.d14b8441.svg",
     "static/media/en.7be3d5a2.png": "/static/media/en.7be3d5a2.png",
     "static/media/exit.1242d835.svg": "/static/media/exit.1242d835.svg",
@@ -35,6 +36,7 @@
     "static/media/mobileLogo.0084bea6.svg": "/static/media/mobileLogo.0084bea6.svg",
     "static/media/one.4a113e80.svg": "/static/media/one.4a113e80.svg",
     "static/media/qr.jpg": "/static/media/qr.0212a3b5.jpg",
+    "static/media/refresh.67ea509c.svg": "/static/media/refresh.67ea509c.svg",
     "static/media/roadblock.d98de1a5.svg": "/static/media/roadblock.d98de1a5.svg",
     "static/media/settings.bb9e659f.svg": "/static/media/settings.bb9e659f.svg",
     "static/media/three.709a21ea.svg": "/static/media/three.709a21ea.svg",
@@ -44,8 +46,8 @@
   "entrypoints": [
     "static/js/runtime-main.a9d12470.js",
     "static/css/2.d752d1ae.chunk.css",
-    "static/js/2.66bac01d.chunk.js",
-    "static/css/main.2dd45bcc.chunk.css",
-    "static/js/main.5d1bb0dc.chunk.js"
+    "static/js/2.a7b8cff1.chunk.js",
+    "static/css/main.f1868a46.chunk.css",
+    "static/js/main.7bb59154.chunk.js"
   ]
 }
