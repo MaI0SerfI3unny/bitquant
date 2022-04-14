@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.f1868a46.chunk.css",
-    "main.js": "/static/js/main.eec1dfa7.chunk.js",
+    "main.css": "/static/css/main.29a1ff24.chunk.css",
+    "main.js": "/static/js/main.f03548f4.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.a9d12470.js",
     "static/css/2.d752d1ae.chunk.css": "/static/css/2.d752d1ae.chunk.css",
-    "static/js/2.a7b8cff1.chunk.js": "/static/js/2.a7b8cff1.chunk.js",
+    "static/js/2.39aee9ad.chunk.js": "/static/js/2.39aee9ad.chunk.js",
     "static/js/3.3bff38dc.chunk.js": "/static/js/3.3bff38dc.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.a7b8cff1.chunk.js.LICENSE.txt": "/static/js/2.a7b8cff1.chunk.js.LICENSE.txt",
+    "static/js/2.39aee9ad.chunk.js.LICENSE.txt": "/static/js/2.39aee9ad.chunk.js.LICENSE.txt",
     "static/media/Alert.f6e37692.svg": "/static/media/Alert.f6e37692.svg",
     "static/media/Password.svg": "/static/media/Password.f66b1350.svg",
     "static/media/Rolling.2f777407.svg": "/static/media/Rolling.2f777407.svg",
@@ -46,8 +46,8 @@
   "entrypoints": [
     "static/js/runtime-main.a9d12470.js",
     "static/css/2.d752d1ae.chunk.css",
-    "static/js/2.a7b8cff1.chunk.js",
-    "static/css/main.f1868a46.chunk.css",
-    "static/js/main.eec1dfa7.chunk.js"
+    "static/js/2.39aee9ad.chunk.js",
+    "static/css/main.29a1ff24.chunk.css",
+    "static/js/main.f03548f4.chunk.js"
   ]
 }
