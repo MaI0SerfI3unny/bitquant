@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d707a49.chunk.css",
-    "main.js": "/static/js/main.1cdfedd3.chunk.js",
+    "main.css": "/static/css/main.44adad85.chunk.css",
+    "main.js": "/static/js/main.a1a59ad5.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.9f07bb5e.js",
     "static/css/2.d752d1ae.chunk.css": "/static/css/2.d752d1ae.chunk.css",
-    "static/js/2.2578f76f.chunk.js": "/static/js/2.2578f76f.chunk.js",
+    "static/js/2.f4ef1af0.chunk.js": "/static/js/2.f4ef1af0.chunk.js",
     "static/js/3.74e3740e.chunk.js": "/static/js/3.74e3740e.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.2578f76f.chunk.js.LICENSE.txt": "/static/js/2.2578f76f.chunk.js.LICENSE.txt",
+    "static/js/2.f4ef1af0.chunk.js.LICENSE.txt": "/static/js/2.f4ef1af0.chunk.js.LICENSE.txt",
     "static/media/1.62336cfb.png": "/static/media/1.62336cfb.png",
     "static/media/1.e6a25f26.png": "/static/media/1.e6a25f26.png",
     "static/media/10.06804c35.png": "/static/media/10.06804c35.png",
@@ -63,7 +63,6 @@
     "static/media/back.763e5a9e.svg": "/static/media/back.763e5a9e.svg",
     "static/media/binance.8b7c68e3.png": "/static/media/binance.8b7c68e3.png",
     "static/media/close.70ebb005.svg": "/static/media/close.70ebb005.svg",
-    "static/media/coin.7adf4df1.svg": "/static/media/coin.7adf4df1.svg",
     "static/media/complete.bae8f309.svg": "/static/media/complete.bae8f309.svg",
     "static/media/copy.d14b8441.svg": "/static/media/copy.d14b8441.svg",
     "static/media/en.7be3d5a2.png": "/static/media/en.7be3d5a2.png",
@@ -86,8 +85,8 @@
   "entrypoints": [
     "static/js/runtime-main.9f07bb5e.js",
     "static/css/2.d752d1ae.chunk.css",
-    "static/js/2.2578f76f.chunk.js",
-    "static/css/main.7d707a49.chunk.css",
-    "static/js/main.1cdfedd3.chunk.js"
+    "static/js/2.f4ef1af0.chunk.js",
+    "static/css/main.44adad85.chunk.css",
+    "static/js/main.a1a59ad5.chunk.js"
   ]
 }
